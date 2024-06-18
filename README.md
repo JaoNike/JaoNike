@@ -1,6 +1,6 @@
 - 👋 Olá, sou @JaoNike
-- 👀 Estou interessado em Programação
-- 🌱 Atualmente estou aprendendo c#, html, python, javascript
+- 👀 Estou interessado em Programação e Banco de dados
+- 🌱 Atualmente estou aprendendo c#, python, html, css, javascript, MySQL
 - 📫 Como entrar em contato comigo jaogabrie00@gmail.com
 
 <!---
